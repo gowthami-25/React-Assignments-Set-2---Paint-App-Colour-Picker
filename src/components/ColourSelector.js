@@ -9,6 +9,6 @@ const ColourSelector = (props) => {
           >
       {config.label}
     </button>
-  )
-}
+  );
+};
 export default ColourSelector;
